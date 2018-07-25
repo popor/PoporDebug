@@ -1,0 +1,6 @@
+framework module Pods_PoporDebug_Example {
+  umbrella header "Pods-PoporDebug_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

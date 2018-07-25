@@ -1,0 +1,27 @@
+PODS:
+  - PoporDebug (0.0.1):
+    - XYDebugView
+  - PoporUI/UIImage (0.0.7)
+  - XYDebugView (1.0.1)
+
+DEPENDENCIES:
+  - PoporDebug (from `../`)
+  - PoporUI/UIImage
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PoporUI
+    - XYDebugView
+
+EXTERNAL SOURCES:
+  PoporDebug:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PoporDebug: f2ed1dcd0931918b0e37a1af0291b454df8dd993
+  PoporUI: 22d654ee371bfdb02d5529084f20ccca2dd286e3
+  XYDebugView: cea72c4d813811250171dbaec3943fba4c63852c
+
+PODFILE CHECKSUM: 7baad422f478108bb79e875bdc4157c2ca574b17
+
+COCOAPODS: 1.5.3

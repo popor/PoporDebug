@@ -1,0 +1,6 @@
+framework module PoporDebug {
+  umbrella header "PoporDebug-umbrella.h"
+
+  export *
+  module * { export * }
+}

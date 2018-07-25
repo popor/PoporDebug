@@ -1,0 +1,27 @@
+{
+  "name": "PoporDebug",
+  "version": "0.0.1",
+  "summary": "A short description of PoporDebug.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/popor/PoporDebug",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "popor": "908891024@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/popor/PoporDebug.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PoporDebug/Classes/**/*",
+  "dependencies": {
+    "XYDebugView": [
+
+    ]
+  }
+}

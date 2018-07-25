@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'PoporDebug_Example' do
+    pod 'PoporDebug', :path => '../'
+    pod 'PoporUI/UIImage'
+    
+    target 'PoporDebug_Tests' do
+        inherit! :search_paths
+        
+        
+    end
+end
